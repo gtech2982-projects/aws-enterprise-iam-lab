@@ -312,3 +312,27 @@ and
 **EC2 → IAM Role → AWS STS → Amazon S3**
 
 The project validates both **successful authorized access** and **blocked unauthorized access**, demonstrating practical application of least-privilege security in AWS.
+## 🏆 Project Outcome
+
+This project demonstrates practical implementation of AWS identity and access management rather than only theoretical IAM knowledge.
+
+The environment successfully demonstrated:
+
+**IAM User → IAM Group → IAM Policy**
+
+and
+
+**EC2 → IAM Role → AWS STS → Amazon S3**
+
+The project validates both **successful authorized access** and **blocked unauthorized access**, demonstrating practical application of least-privilege security in AWS.
+
+---
+
+## 📚 Project Resources
+
+- [Architecture Diagram](Architecture/aws-iam-architecture.png)
+- [Architecture Documentation](Architecture/README.md)
+- [Business Requirements](Documentation/Business-Requirement.md)
+- [EC2-to-S3 Read-Only Lab](Documentation/EC2-S3-ReadOnly-Lab.md)
+- [IAM Policies](Policies/README.md)
+- [Project Screenshots](Screenshots/README.md)
