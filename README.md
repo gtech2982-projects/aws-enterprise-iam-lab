@@ -235,14 +235,14 @@ aws-enterprise-iam-lab/
 │   └── EC2-S3-ReadOnly-Lab.md
 │
 ├── Policies/
-│   └── Developers-EC2-Policy.json
+│   ├── Developers-EC2-Policy.json
+│   └── CloudEngineers-S3-ReadOnly.json
 │
 ├── Screenshots/
 │   ├── 01-IAM-User-Groups.png
 │   ├── 02-IAM-Users.png
 │   └── 03-Alice-Console-Access.png
 │
-├── CloudEngineers-S3-ReadOnly.json
 ├── .gitignore
 └── README.md
 ```
